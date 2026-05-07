@@ -26,7 +26,7 @@ A minimal web-based chatbot powered by Google's Gemini API. Supports text conver
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gemini-chatbot.git
+git clone https://github.com/OmHadke/gemini-chatbot.git
 cd gemini-chatbot
 ```
 
